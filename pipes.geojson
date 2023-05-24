@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "pipes",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "uuid": "{94078e66-0d20-4b1e-a7e0-2ef39125c176}", "ident": 3, "fonction": "Distribution", "materiau": "Fonte", "diametre": 150, "classe": "C", "insee": "04233", "statut": "En fonction", "type_cana": "Canalisation couverte", "longueur": 328.68, "proprio": null, "gestion": null, "annee_pose": null, "mtr_oeuvre": null, "insee_gest": null, "source": "David BONNET", "nature_src": "Saisie SIG", "remarque": null, "d_maj": "2023-04-26T11:14:18" }, "geometry": { "type": "LineString", "coordinates": [ [ 659562.419854544452392, 5509959.55826789047569 ], [ 659599.767231107340194, 5509501.12374421954155 ] ] } },
 { "type": "Feature", "properties": { "uuid": "{be3a2c33-ac9b-4918-81ce-a88d2d331433}", "ident": 4, "fonction": "Distribution", "materiau": "Fonte", "diametre": 600, "classe": "C", "insee": "04233", "statut": "En fonction", "type_cana": "Canalisation couverte", "longueur": 1703.74, "proprio": null, "gestion": null, "annee_pose": null, "mtr_oeuvre": null, "insee_gest": null, "source": "David BONNET", "nature_src": "Saisie SIG", "remarque": null, "d_maj": "2023-04-26T11:18:13" }, "geometry": { "type": "LineString", "coordinates": [ [ 656604.455400816863403, 5510009.335566195659339 ], [ 658872.810630290419795, 5509299.664058912545443 ] ] } },
